@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f18f930a63cb2109",
+        "id": "98d6925d22fa4774",
         "type": "tabs",
         "children": [
           {
-            "id": "2c033ef6ca8a44d1",
+            "id": "41af8091a0dfaefc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rentée/INFOS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "INFOS"
+              "title": "New tab"
             }
           }
         ]
@@ -186,9 +182,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c033ef6ca8a44d1",
+  "active": "dc3bdc9781a32b53",
   "lastOpenFiles": [
+    "Informatique/~medias/Pasted image 20260915161405.png",
+    "Informatique/~medias/Pasted image 20260915161401 1.png",
+    "Informatique/~medias/Pasted image 20260915161401.png",
+    "Informatique/~medias/Pasted image 20260915161321.png",
+    "Informatique/Banalitées.md",
+    "Ouverture culturel/Histoire de l'aeronautique.md",
+    "Ouverture culturel/Cours d'aero.md",
+    "Ouverture culturel/Cours_aero_fusionne.md",
+    "Informatique/~medias",
+    "Informatique",
+    "Ouverture culturel/~medias/Pasted image 20260915101422.png",
+    "Ouverture culturel/~medias",
     "Rentée/INFOS.md",
+    "Ouverture culturel",
     "Rentée",
     "hello.md",
     "hello.mf",
@@ -199,10 +208,6 @@
     "Ouverture culturelle",
     "Méthodes et outils ??",
     "Math-Info-Logique",
-    "Ecologie ?? maybe ?",
-    "Eco",
-    "Projet",
-    "Anglais",
     "a.md",
     "test/q.md",
     "test/~medias/Pasted image 20260911004620.png",

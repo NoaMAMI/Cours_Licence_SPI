@@ -1,6 +1,8 @@
 # Liste des cours
 - Ouverture culturesse, technologique et scientifque : 
-	- Rennée BOUDET (vieux)
+	- Rennée BOUDET (06.85.45.05.64)
+		- 06.85.45.05.64
+		- rene.boudet@lapost.net
 	- 28h
 
 -  Culture général et philosophie : 
