@@ -11,10 +11,14 @@
             "id": "41af8091a0dfaefc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math/Algebre.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Algebre"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ouverture culturel/Cours d'aero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,15 +187,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc3bdc9781a32b53",
+  "active": "41af8091a0dfaefc",
   "lastOpenFiles": [
+    "Informatique/Banalitées.md",
+    "Math/Algebre.md",
+    "Math",
+    "Ouverture culturel/Cours d'aero.md",
+    "Informatique/~medias/Pasted image 20260915161321.png",
+    "Informatique/~medias/Pasted image 20260915161401.png",
     "Informatique/~medias/Pasted image 20260915161405.png",
     "Informatique/~medias/Pasted image 20260915161401 1.png",
-    "Informatique/~medias/Pasted image 20260915161401.png",
-    "Informatique/~medias/Pasted image 20260915161321.png",
-    "Informatique/Banalitées.md",
     "Ouverture culturel/Histoire de l'aeronautique.md",
-    "Ouverture culturel/Cours d'aero.md",
     "Ouverture culturel/Cours_aero_fusionne.md",
     "Informatique/~medias",
     "Informatique",
@@ -207,7 +214,6 @@
     "SPI",
     "Ouverture culturelle",
     "Méthodes et outils ??",
-    "Math-Info-Logique",
     "a.md",
     "test/q.md",
     "test/~medias/Pasted image 20260911004620.png",

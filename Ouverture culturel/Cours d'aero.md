@@ -16,8 +16,8 @@ On ne peut additionner/comparer des grandeurs que si elles ont la même dimensio
 ### Application : démonstration dimensionnelle — courbure d'une aile
 
 Schéma : poutre encastrée (aile), avec flèche $U_2$ à l'extrémité libre. Équation de départ :
+$$\dfrac{d^2 U_2}{dx^2} = \dfrac{M_{fB}}{E \cdot I / 6 \cdot x_3}$$
 
-$$\frac{d^2 U_2}{dx^2} = \frac{M_{fB}}{E \cdot I / 6 \cdot x_3}$$
 
 où $M_{fB}$ est un moment fléchissant, $E$ le module de Young, $I$ un moment d'inertie.
 
@@ -32,7 +32,7 @@ Vérification par analyse dimensionnelle (telle que présente sur la photo) :
 
 ## 2. Atmosphère normalisée
 
-**Conversion Kelvin ↔ Celsius (température absolue) :**
+**Conversion Kelvin <-> Celsius (température absolue) :**
 
 $$n°C = n°K + 273{,}15$$
 
@@ -72,7 +72,7 @@ $$p \cdot V = n \cdot R \cdot T_{K}°$$
 
 **Correction de Van der Waals** (gaz réel, mentionnée dans les notes manuscrites sans développement) :
 
-$$\left(p + \frac{a}{V^2}\right)(V - b) = n \cdot R \cdot T°_K$$
+$$\left(p + \dfrac{a}{V^2}\right)(V - b) = n \cdot R \cdot T°_K$$
 
 *(équation notée mais non expliquée en cours — à demander/creuser si besoin, $a$ et $b$ sont des constantes propres à chaque gaz qui corrigent respectivement les interactions moléculaires et le volume propre des molécules)*
 
@@ -80,8 +80,8 @@ $$\left(p + \frac{a}{V^2}\right)(V - b) = n \cdot R \cdot T°_K$$
 
 ### Chaleur volumique (Cp, Cv)
 
-$$C_v = \frac{\text{Joule}}{\text{kilomole} \cdot °K} \quad \text{(à volume constant)}$$
-$$C_p = \frac{\text{Joule}}{\text{kilomole} \cdot °K} \quad \text{(à pression constante)}$$
+$$C_v = \dfrac{\text{Joule}}{\text{kilomole} \cdot °K} \quad \text{(à volume constant)}$$
+$$C_p = \dfrac{\text{Joule}}{\text{kilomole} \cdot °K} \quad \text{(à pression constante)}$$
 
 $$C_p - C_v = R$$
 
@@ -102,3 +102,5 @@ $$dB = 10\log_{10}\left(\left(\frac{\Delta p}{10^{-5}}\right)^{2}\right) = 20\lo
 $$\log(a \times b) = \log(a) + \log(b)$$
 
 Exemple numérique donné en cours : $100 = 10^2 \Rightarrow \log_{10}(100) = 2$
+soit en thermes générale : ${}x = 10^y \implies \log_{10}(x)=y{}$
+

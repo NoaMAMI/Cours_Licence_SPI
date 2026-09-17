@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "accentColor": "#f55cbd",
-  "textFontFamily": "Fira Mono"
+  "textFontFamily": "Fira Mono",
+  "baseFontSize": 24
 }
