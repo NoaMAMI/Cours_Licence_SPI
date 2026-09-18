@@ -104,3 +104,36 @@ $$\log(a \times b) = \log(a) + \log(b)$$
 Exemple numérique donné en cours : $100 = 10^2 \Rightarrow \log_{10}(100) = 2$
 soit en thermes générale : ${}x = 10^y \implies \log_{10}(x)=y{}$
 
+--- 17/09/2026
+
+## Gaz
+un gaz a des attributs
+- Masse en `M` en `kg`
+- mole $\to$ en `g`
+- kilomole $\to$ en `kg` $6.02*10^{26}$
+- pression en `P` en ${}Pa{}$
+- volume en ${}m^3{}$
+
+### **Relation pression, volume, masse**
+${}P*V =m * R*T°_{K}{}$
+P,V, C
+${}R=\dfrac{8.31*10^3J}{kilomole}{}$
+
+$1kg$
+${}Cp-Cv=\dfrac{287J}{\dfrac{Kg}{°K}}{}$
+
+${}\dfrac{Cp}{Cv}\gamma{}$
+
+${}Cp=\dfrac{10^3J}{\dfrac{Kg}{°K}}{}$
+
+${}Cv=\dfrac{714J}{\dfrac{Kg}{°K}}{}$
+
+
+${}\dfrac{q_{m}froid}{q_{m}chaud}=5 \to 30{}$
+
+${}N_{propultion}=\dfrac{propultionUtile}{propultionMecaMiseEnCause}{}$
+
+
+| source Thermique                       |     |
+| -------------------------------------- | --- |
+| ${}q_{calo}=1kg/s\to PThermDispo : {}$ |     |
