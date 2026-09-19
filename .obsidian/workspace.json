@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ouverture culturel/Cours d'aero.md",
+                "file": "EcoGestion/qq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours d'aero"
+              "title": "qq"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "41af8091a0dfaefc",
   "lastOpenFiles": [
-    "Ouverture culturel/Histoire de l'aeronautique.md",
     "Ouverture culturel/Cours d'aero.md",
+    "EcoGestion/qq.md",
+    "EcoGestion/Untitled",
+    "EcoGestion",
+    "Ouverture culturel/Histoire de l'aeronautique.md",
     "Math/Algebre.md",
     "Informatique/Banalitées.md",
     "Math",
@@ -212,8 +215,6 @@
     "Untitled.md",
     "Untitled.canvas",
     "SPI",
-    "Ouverture culturelle",
-    "Méthodes et outils ??",
     "a.md",
     "test/q.md",
     "test/~medias/Pasted image 20260911004620.png",
