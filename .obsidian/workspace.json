@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EcoGestion/qq.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qq"
+              "title": "Untitled"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "828831335106abd6",
@@ -189,22 +190,30 @@
   },
   "active": "41af8091a0dfaefc",
   "lastOpenFiles": [
-    "Ouverture culturel/Cours d'aero.md",
+    "~medias/Pasted image 20261027143427.png",
+    "~medias/Pasted image 20261027143421.png",
+    "~medias/Pasted image 20261027143410.png",
+    "~medias/Pasted image 20261027143402.png",
+    "~medias/Pasted image 20261027143353.png",
+    "~medias/Pasted image 20261027143344.png",
+    "~medias/Pasted image 20261027143330.png",
+    "~medias/Pasted image 20261027143321.png",
+    "~medias/Pasted image 20261027143259.png",
+    "~medias/Pasted image 20261027143242.png",
+    "~medias/Pasted image 20261027143231.png",
+    "~medias",
     "EcoGestion/qq.md",
+    "Untitled.md",
+    "Ouverture culturel/Cours d'aero.md",
     "EcoGestion/Untitled",
     "EcoGestion",
     "Ouverture culturel/Histoire de l'aeronautique.md",
     "Math/Algebre.md",
     "Informatique/Banalitées.md",
     "Math",
-    "Informatique/~medias/Pasted image 20260915161321.png",
-    "Informatique/~medias/Pasted image 20260915161401.png",
-    "Informatique/~medias/Pasted image 20260915161405.png",
-    "Informatique/~medias/Pasted image 20260915161401 1.png",
     "Ouverture culturel/Cours_aero_fusionne.md",
     "Informatique/~medias",
     "Informatique",
-    "Ouverture culturel/~medias/Pasted image 20260915101422.png",
     "Ouverture culturel/~medias",
     "Rentée/INFOS.md",
     "Ouverture culturel",
@@ -212,16 +221,9 @@
     "hello.md",
     "hello.mf",
     "Untitled 1.canvas",
-    "Untitled.md",
     "Untitled.canvas",
-    "SPI",
     "a.md",
     "test/q.md",
-    "test/~medias/Pasted image 20260911004620.png",
-    "test.md",
-    "~medias/Pasted image 20260911004531.png",
-    "media/Pasted image 20260911004416.png",
-    "Pasted image 20260911004250.png",
-    "Pasted image 20260911004241.png"
+    "test.md"
   ]
 }
