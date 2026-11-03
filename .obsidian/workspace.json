@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "projet.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "projet"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "828831335106abd6",
@@ -190,6 +189,10 @@
   },
   "active": "41af8091a0dfaefc",
   "lastOpenFiles": [
+    "Rentée/INFOS.md",
+    "projet.md",
+    "EcoGestion/qq.md",
+    "Untitled.md",
     "~medias/Pasted image 20261027143427.png",
     "~medias/Pasted image 20261027143421.png",
     "~medias/Pasted image 20261027143410.png",
@@ -200,10 +203,7 @@
     "~medias/Pasted image 20261027143321.png",
     "~medias/Pasted image 20261027143259.png",
     "~medias/Pasted image 20261027143242.png",
-    "~medias/Pasted image 20261027143231.png",
     "~medias",
-    "EcoGestion/qq.md",
-    "Untitled.md",
     "Ouverture culturel/Cours d'aero.md",
     "EcoGestion/Untitled",
     "EcoGestion",
@@ -215,7 +215,6 @@
     "Informatique/~medias",
     "Informatique",
     "Ouverture culturel/~medias",
-    "Rentée/INFOS.md",
     "Ouverture culturel",
     "Rentée",
     "hello.md",
