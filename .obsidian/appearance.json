@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "accentColor": "#f55cbd",
   "textFontFamily": "Fira Mono",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "mermaid"
+  ]
 }

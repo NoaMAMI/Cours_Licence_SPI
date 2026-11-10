@@ -167,3 +167,12 @@ flowchart TB
 | CI.5.2   | Intégrer le produit                      |                |                   |       R        |        P        |                     |
 | CI.5.3   | Qualifier le produit                     |                |                   |       R        |        P        |          A          |
 
+# Avantages / Inconvégiants
+| Avantages | Inconvénients |
+|---|---|
+| Budget : −270 k€ (−12 %) | Logiciel sur le chemin critique (52 sem sur 108) |
+| Lot logiciel presque 2× moins cher | Filiale récente, maturité qualité inconnue |
+| Ressources internes libérées | Exigences de certification aéronautique |
+| Filiale du groupe : confidentialité préservée | Moins de maîtrise, coordination à distance |
+| Logiciel développé sur PC, peu couplé au matériel | Coûts cachés (déplacements, reprises) |
+| Délai inchangé (hypothèse) | Perte de savoir-faire sur le cœur du produit |
